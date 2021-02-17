@@ -14,7 +14,8 @@ This command works for source called as `source "digitalocean" "parallel-DO" {`
 
 ---
 
-# For AWS deployment, additionnal configuration
+![AWS logo](https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico)
+## For AWS deployment, additionnal configuration
 
 The default location is `$HOME/.aws/credentials` on 🐧 *Linux* and 🍏 *OS X*, or `%USERPROFILE%.aws\credentials` for 💩 *Windows*.
 
