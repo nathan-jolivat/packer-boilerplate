@@ -16,7 +16,7 @@ This command works for source called as `source "digitalocean" "parallel-DO" {`
 
 # For AWS deployment, additionnal configuration
 
-The default location is $HOME/.aws/credentials on Linux and OS X, or %USERPROFILE%.aws\credentials for Windows users.
+The default location is `$HOME/.aws/credentials` on 🐧 *Linux* and 🍏 *OS X*, or `%USERPROFILE%.aws\credentials` for 💩 *Windows*.
 
 ## For Windows 
 
