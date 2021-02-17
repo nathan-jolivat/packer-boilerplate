@@ -1,10 +1,11 @@
 ## Validate syntax
-`packer validate .` at root path directory
+Exec at root path directory: `$> packer validate .` 
+
 
 ## Build image on all source providers
-`packer build .`
+`$> packer build .`
 
 ## Build image on specific source providers
-`packer build --only=digitalocean.parallel-DO .`
+`$> packer build --only=digitalocean.parallel-DO .`
 
 This command works for source called as `source "digitalocean" "parallel-DO" {`
