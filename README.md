@@ -1,3 +1,5 @@
+# Usage
+
 ## Validate syntax
 Exec at root path directory: `$ packer validate .` 
 
