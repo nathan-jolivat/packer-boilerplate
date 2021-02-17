@@ -37,7 +37,7 @@ aws_secret_access_key=wiWfvvUIt3B7hONJj9Ew2Tk74g5Ljp/Rj7TICk6g
 ```
 profile = "default"
 ```
-🧨 And remove lines like this:
+🧨 And remove lines:
 ```
 access_key    = "${var.aws_access_key}"
 secret_key    = "${var.aws_secret_key}"
