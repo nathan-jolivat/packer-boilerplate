@@ -33,7 +33,7 @@ aws_secret_access_key=wiWfvvUIt3B7hONJj9Ew2Tk74g5Ljp/Rj7TICk6g
 
 ## Define default creds into Packer config file (.pkr.hcl)
 
-✍ For each `source { }` add line like below: 
+✍ For each ![AWS logo](https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico) AWS `source { }` add line like below: 
 ```
 profile = "default"
 ```
