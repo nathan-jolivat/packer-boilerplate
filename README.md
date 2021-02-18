@@ -27,8 +27,8 @@ The default location is `$HOME/.aws/credentials` on 🐧 *Linux* and 🍏 *OS X*
 ✍ Add default content to `credentials` file like below:
 ```
 [default]
-aws_access_key_id=AKIAIRHOKU6D2MTJVDNA
-aws_secret_access_key=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
+aws_access_key_id=**********************
+aws_secret_access_key=********************************************
 ```
 
 ## Define default creds into Packer config file (.pkr.hcl)
