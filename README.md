@@ -37,7 +37,7 @@ aws_secret_access_key=********************************************
 ```
 profile = "default"
 ```
-🧨 And remove lines:
+🧨 And remove lines from `parallel.pkr.hcl` file if they exist:
 ```
 access_key    = "${var.aws_access_key}"
 secret_key    = "${var.aws_secret_key}"
